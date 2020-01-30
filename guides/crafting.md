@@ -214,6 +214,13 @@ If you wish to join two small pieces to make a medium or two mediums to make a l
 <li>a = assist</li>
 </ul>
 
+<h2>Large Dragnoscale Fragment</h2>
+
+<h2>Medium Dragnoscale Fragment</h2>
+
+<h2>Small Dragnoscale Fragment</h2>
+<li>tbcbh = gauntlets</li>
+
 <p><a href="index.md">Go back to the Godwars2 guide.</a></p>
 
 	</body>
