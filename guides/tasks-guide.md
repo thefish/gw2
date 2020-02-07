@@ -1,8 +1,8 @@
 Ashendell
-  Straightforward fight.
-    Drops torc (epic)
+  Cheiron - Straightforward fight.
+    Drops eternal torc of health (epic) - is a legit tool for faith, by the way.
     
-  Easy way to grind primal - target tents after centaur, kill drowsy cents.
+  Easy way to grind primal - target tents after victory over Cheiron, kill drowsy centaurs.
 
 Harpy Wood 
   Kill *eggs*, not the harpies, there is about 5 of them.
