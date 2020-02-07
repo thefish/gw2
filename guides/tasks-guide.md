@@ -23,7 +23,7 @@ Elemental Isle
   
 Westgate Meadow
   Nemean Lion - it's almost invulnerable to physical damage, mind blast or other indirect damage works good.
-    drops nemean lions hide (epic)
+    drops nemean lions hide (epic) - gives *immunity* for body and back vs physical
   
 Ashwood Farm
   Target small houses and barn, burn them. Last goes the town hall in northern part of the map.
